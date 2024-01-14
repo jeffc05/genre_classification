@@ -1,0 +1,31 @@
+{
+    "os": "macOS-13.2.1-arm64-arm-64bit",
+    "python": "3.8.15",
+    "heartbeatAt": "2024-01-14T12:12:17.100907",
+    "startedAt": "2024-01-14T12:12:16.307761",
+    "docker": null,
+    "cpu_count": 10,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "raw_data.parquet:latest",
+        "--artifact_name",
+        "preprocessed_data.csv",
+        "--artifact_type",
+        "preprocessed_data",
+        "--artifact_description",
+        "Preprocessed data"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "preprocess/run.py",
+    "git": {
+        "remote": "https://github.com/jeffc05/genre_classification.git",
+        "commit": "04f5644df5b4107de11e85bba9979ea40c637efe"
+    },
+    "email": "jeffersonjeff@gmail.com",
+    "root": "/Users/jchan/Documents/projects/udacity/genre_classification",
+    "host": "Chans-MacBook-Pro.local",
+    "username": "jchan",
+    "executable": "/Users/jchan/miniconda3/envs/mlflow-318b5229405b42f2d2684d461f99cd02f4e8b258/bin/python"
+}

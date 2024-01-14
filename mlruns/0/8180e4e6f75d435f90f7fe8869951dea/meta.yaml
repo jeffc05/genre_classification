@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jchan/Documents/projects/udacity/genre_classification/mlruns/0/8180e4e6f75d435f90f7fe8869951dea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 8180e4e6f75d435f90f7fe8869951dea
+run_uuid: 8180e4e6f75d435f90f7fe8869951dea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705208134624
+status: 1
+tags: []
+user_id: jchan
